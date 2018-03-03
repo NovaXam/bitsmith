@@ -1,0 +1,6 @@
+ElectrumX 1.2.1
+{ confirmed: 507812, unconfirmed: 0 }
+[ { tx_hash: '2b9f348aa6bc0c70df6d096693f507aac5c8840d1d159a20daa266d9ac5a05bb',
+    tx_pos: 0,
+    height: 1287205,
+    value: 507812 } ]
